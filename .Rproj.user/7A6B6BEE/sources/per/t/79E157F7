@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559175817605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3620013610",
+    "id" : "79E157F7",
+    "lastKnownWriteTime" : 1559179586,
+    "last_content_update" : 1559179586438,
+    "path" : "D:/Dropbox (MIT)/MTR/Delivarables/App_for_shinyio/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "9,20",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

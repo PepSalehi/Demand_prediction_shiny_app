@@ -1,0 +1,13 @@
+name: ShinyAppMTR
+title: ShinyAppMTR
+username:
+account: peymano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 951589
+bundleId: 2114478
+url: https://peymano.shinyapps.io/ShinyAppMTR/
+when: 1559078899.10427
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: server.R|ui.R
